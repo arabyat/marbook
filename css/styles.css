@@ -1,0 +1,131 @@
+body{
+    font-family: "Montserrat";
+}
+#title{
+    /* background-color: #ff4c68; */
+    background-color: #96BAFF;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+}
+#title-cotainer{
+    padding: 10% 15% 0;
+}
+
+#top-bar{
+    padding: 0.5% 4%;
+}
+#dog_image{
+    /* transform: rotate(25deg); */
+    width: 60%;
+    /* position: relative; */
+    z-index: 0;
+    margin-bottom: 30px;
+}
+/* nav bar style */
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px ;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.features-select-id{
+    color: #8f8f8f;
+}
+.features-select-h3{
+    font-family: 'Montserrat';
+    font-weight: 550;
+    line-height: 1.5;
+    font-size: 1.6rem;
+}
+.features-select-shape{
+    margin-bottom: 10px;
+    /* color: #ef8172; */
+    color: #7DEDFF;
+}
+.features-select-shape:hover{
+    color: #ff4c68;
+}
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    /* position: relative; */
+    /* z-index: 1; */
+    top: -100px;
+}
+.features-select{
+    padding: 5%;
+}
+
+/* Testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.h2_testimonials{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: 550;
+    line-height: 1.5;
+    font-size: 1.6rem;
+}
+p{
+    color: #8f8f8f;
+}
+.img_testimonials{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.press_image{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+/* pricing */
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-colom {
+    padding:3% 2%;
+}
